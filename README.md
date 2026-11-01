@@ -23,62 +23,62 @@
 
 <table id="toc">
   <tr>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://github.com/yn-zxj/still"><img src="assets/projects/still.jpg" width="100%" alt="息间 Still 界面截图" /></a>
-    </td>
     <td width="42%" valign="middle">
-      <h3><a href="https://github.com/yn-zxj/still">息间 Still</a></h3>
+      <h3>息间 Still</h3>
       原生 macOS 用眼监控、休息提醒与个人跟练，菜单栏常驻，数据完全本地存储
       <br/><br/>
       <sub>SwiftUI · AppKit · Core Data</sub>
     </td>
+    <td width="58%" valign="middle" align="center">
+      <a href="https://github.com/yn-zxj/still"><img src="assets/projects/still.jpg" width="100%" alt="息间 Still 界面截图" /></a>
+    </td>
   </tr>
   <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://github.com/yn-zxj/Assetly"><img src="assets/projects/assetly.jpg" width="100%" alt="物语 Assetly 界面截图" /></a>
-    </td>
     <td width="42%" valign="middle">
-      <h3><a href="https://github.com/yn-zxj/Assetly">物语 Assetly</a></h3>
+      <h3>物语 Assetly</h3>
       本地优先的家庭物品、收纳空间与家庭药箱管理，无需账号，离线可用
       <br/><br/>
       <sub>Flutter · Dart</sub>
     </td>
+    <td width="58%" valign="middle" align="center">
+      <a href="https://github.com/yn-zxj/Assetly"><img src="assets/projects/assetly.jpg" width="100%" alt="物语 Assetly 界面截图" /></a>
+    </td>
   </tr>
   <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://github.com/yn-zxj/sup"><img src="assets/projects/sup.jpg" width="100%" alt="sup 界面截图" /></a>
-    </td>
     <td width="42%" valign="middle">
-      <h3><a href="https://github.com/yn-zxj/sup">sup</a></h3>
+      <h3>sup</h3>
       轻量级远程增量部署工具，单二进制，内置 Web 界面与远程终端
       <br/><br/>
       <sub>Rust · Axum · React</sub>
     </td>
+    <td width="58%" valign="middle" align="center">
+      <a href="https://github.com/yn-zxj/sup"><img src="assets/projects/sup.jpg" width="100%" alt="sup 界面截图" /></a>
+    </td>
   </tr>
   <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://github.com/ansermail/anser"><img src="assets/projects/anser.jpg" width="100%" alt="雁信 Anser 界面截图" /></a>
-    </td>
     <td width="42%" valign="middle">
-      <h3><a href="https://github.com/ansermail/anser">雁信 Anser</a></h3>
+      <h3>雁信 Anser</h3>
       多账号邮件客户端，本地存储与统一收件箱，macOS 已发布
       <br/><br/>
       <sub>Tauri 2 · Rust · React · TypeScript</sub>
     </td>
+    <td width="58%" valign="middle" align="center">
+      <a href="https://github.com/ansermail/anser"><img src="assets/projects/anser.jpg" width="100%" alt="雁信 Anser 界面截图" /></a>
+    </td>
   </tr>
   <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://doc.bt66.cn"><img src="assets/projects/blog.jpg" width="100%" alt="个人博客截图" /></a>
-    </td>
     <td width="42%" valign="middle">
-      <h3><a href="https://doc.bt66.cn">个人博客</a></h3>
+      <h3>个人博客</h3>
       学习笔记：Java 后端、前端、AI
       <br/><br/>
       <sub>VuePress 2 · Theme Hope → <a href="https://doc.bt66.cn">doc.bt66.cn</a></sub>
+    </td>
+    <td width="58%" valign="middle" align="center">
+      <a href="https://doc.bt66.cn"><img src="assets/projects/blog.jpg" width="100%" alt="个人博客截图" /></a>
     </td>
   </tr>
 </table>
