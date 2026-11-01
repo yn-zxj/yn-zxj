@@ -21,67 +21,54 @@
 
 ## 精选项目
 
-<table id="toc">
-  <tr>
-    <td width="42%" valign="middle">
-      <h3>息间 Still</h3>
-      原生 macOS 用眼监控、休息提醒与个人跟练，菜单栏常驻，数据完全本地存储
-      <br/><br/>
-      <sub>SwiftUI · AppKit · Core Data</sub>
-    </td>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://github.com/yn-zxj/still"><img src="assets/projects/still.jpg" width="100%" alt="息间 Still 界面截图" /></a>
-    </td>
-  </tr>
-  <tr><td colspan="2">&nbsp;</td></tr>
-  <tr>
-    <td width="42%" valign="middle">
-      <h3>物语 Assetly</h3>
-      本地优先的家庭物品、收纳空间与家庭药箱管理，无需账号，离线可用
-      <br/><br/>
-      <sub>Flutter · Dart</sub>
-    </td>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://github.com/yn-zxj/Assetly"><img src="assets/projects/assetly.jpg" width="100%" alt="物语 Assetly 界面截图" /></a>
-    </td>
-  </tr>
-  <tr><td colspan="2">&nbsp;</td></tr>
-  <tr>
-    <td width="42%" valign="middle">
-      <h3>sup</h3>
-      轻量级远程增量部署工具，单二进制，内置 Web 界面与远程终端
-      <br/><br/>
-      <sub>Rust · Axum · React</sub>
-    </td>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://github.com/yn-zxj/sup"><img src="assets/projects/sup.jpg" width="100%" alt="sup 界面截图" /></a>
-    </td>
-  </tr>
-  <tr><td colspan="2">&nbsp;</td></tr>
-  <tr>
-    <td width="42%" valign="middle">
-      <h3>雁信 Anser</h3>
-      多账号邮件客户端，本地存储与统一收件箱，macOS 已发布
-      <br/><br/>
-      <sub>Tauri 2 · Rust · React · TypeScript</sub>
-    </td>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://github.com/ansermail/anser"><img src="assets/projects/anser.jpg" width="100%" alt="雁信 Anser 界面截图" /></a>
-    </td>
-  </tr>
-  <tr><td colspan="2">&nbsp;</td></tr>
-  <tr>
-    <td width="42%" valign="middle">
-      <h3>个人博客</h3>
-      学习笔记：Java 后端、前端、AI
-      <br/><br/>
-      <sub>VuePress 2 · Theme Hope → <a href="https://doc.bt66.cn">doc.bt66.cn</a></sub>
-    </td>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://doc.bt66.cn"><img src="assets/projects/blog.jpg" width="100%" alt="个人博客截图" /></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/yn-zxj/still">
+    <picture>
+      <source media="(max-width: 820px)" srcset="assets/projects/cards/still-tall.jpg" />
+      <img src="assets/projects/cards/still-wide.jpg" width="100%" alt="息间 Still｜原生 macOS 用眼监控、休息提醒与个人跟练，菜单栏常驻，数据完全本地存储｜SwiftUI · AppKit · Core Data" />
+    </picture>
+  </a>
+</p>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/yn-zxj/Assetly">
+    <picture>
+      <source media="(max-width: 820px)" srcset="assets/projects/cards/assetly-tall.jpg" />
+      <img src="assets/projects/cards/assetly-wide.jpg" width="100%" alt="物语 Assetly｜本地优先的家庭物品、收纳空间与家庭药箱管理，无需账号，离线可用｜Flutter · Dart" />
+    </picture>
+  </a>
+</p>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/yn-zxj/sup">
+    <picture>
+      <source media="(max-width: 820px)" srcset="assets/projects/cards/sup-tall.jpg" />
+      <img src="assets/projects/cards/sup-wide.jpg" width="100%" alt="sup｜轻量级远程增量部署工具，单二进制，内置 Web 界面与远程终端｜Rust · Axum · React" />
+    </picture>
+  </a>
+</p>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ansermail/anser">
+    <picture>
+      <source media="(max-width: 820px)" srcset="assets/projects/cards/anser-tall.jpg" />
+      <img src="assets/projects/cards/anser-wide.jpg" width="100%" alt="雁信 Anser｜多账号邮件客户端，本地存储与统一收件箱，macOS 已发布｜Tauri 2 · Rust · React · TypeScript" />
+    </picture>
+  </a>
+</p>
+<br/>
+
+<p align="center">
+  <a href="https://doc.bt66.cn">
+    <picture>
+      <source media="(max-width: 820px)" srcset="assets/projects/cards/blog-tall.jpg" />
+      <img src="assets/projects/cards/blog-wide.jpg" width="100%" alt="个人博客｜技术学习笔记：Java 后端、前端、AI｜VuePress 2 · Theme Hope" />
+    </picture>
+  </a>
+</p>
 
 更多仓库见 [Repositories](https://github.com/yn-zxj?tab=repositories)。
 
